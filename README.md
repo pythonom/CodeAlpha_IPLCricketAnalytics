@@ -43,7 +43,7 @@ Takes IPL data from 2008 to 2024 and tries to answer questions that actually mat
 ## Dataset sources
 
 - **Historical data (2008–2024):** [IPL Complete Dataset — Kaggle](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020)
-- **Live 2026 stats:** Scraped from [ESPN Cricinfo](https://www.espncricinfo.com)
+- **Live 2026 stats:** Scraped from [ESPN Cricinfo](https://www.espncricinfo.com/records/tournament/batting-most-runs-career/indian-premier-league-2026-17740)
 
 ---
 
